@@ -1,0 +1,12 @@
+.c3{
+    
+    font-size: 25px;
+    background-color:lightseagreen;
+   margin-bottom: 20px;
+    text-decoration: none;
+}
+.img{
+    background-image: url(bus1.jpg);
+    background-size: cover;
+    
+}
